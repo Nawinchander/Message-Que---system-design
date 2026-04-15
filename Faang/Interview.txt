@@ -16,4 +16,30 @@ How do you handle message ordering?
 What is backpressure?
 
 
+FAANG-Level Concepts to Mention
+At-least-once vs Exactly-once delivery
+Message ordering
+Idempotency
+Partitioning
+Consumer groups
+
+
+Final Summary
+
+👉 Message Queue = Backbone of scalable systems
+
+Used in:
+
+Payments
+Notifications
+Order systems
+Microservices
+
+
+Pro Tip (Important)
+
+If you say this in interview, you stand out:
+
+“I use MQ to decouple services, improve fault tolerance, and handle asynchronous workloads with retries and DLQ.”
+
 
