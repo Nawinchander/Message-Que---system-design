@@ -1,0 +1,16 @@
+Types of Message Queues (Important for Interviews)
+1. Point-to-Point (Queue model)
+One producer → One consumer
+Message consumed once
+
+👉 Example: Order processing
+
+2. Publish-Subscribe (Pub/Sub)
+One producer → Multiple consumers
+
+👉 Example: Notification system
+
+Email service
+SMS service
+Analytics
+
