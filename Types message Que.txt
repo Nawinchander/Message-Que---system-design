@@ -14,3 +14,19 @@ Email service
 SMS service
 Analytics
 
+3. Priority Queue
+Messages processed based on priority
+
+👉 Example: VIP users
+
+4. Dead Letter Queue (DLQ)
+Failed messages stored separately
+
+👉 Important FAANG concept
+
+⚙️ Popular MQ Tools (Mention in Interviews)
+RabbitMQ
+Apache Kafka
+Amazon SQS
+Redis
+
