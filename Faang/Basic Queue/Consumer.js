@@ -1,3 +1,5 @@
+// Shows decoupling
+// But not scalable → in-memory limitation
 
 
 // consumer.js
