@@ -1,0 +1,19 @@
+Basic
+
+What is Message Queue?
+Difference between MQ vs REST API?
+
+🔹 Intermediate
+
+How does MQ improve scalability?
+What is Pub/Sub vs Queue?
+
+🔹 Advanced
+
+How does Apache Kafka handle partitioning?
+What is exactly-once delivery?
+How do you handle message ordering?
+What is backpressure?
+
+
+
