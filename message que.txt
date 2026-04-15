@@ -1,0 +1,8 @@
+A Message Queue is a system design component that allows different services to communicate asynchronously.
+
+👉 Instead of calling directly (like REST API),
+you send a message to a queue, and another service processes it later.
+
+
+
+
