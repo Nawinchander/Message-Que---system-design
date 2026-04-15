@@ -1,17 +1,11 @@
-// queue.js
-class Queue {
-  constructor() {
-    this.queue = [];
+
+
+// consumer.js
+const queue = require("./Queue");
+
+setInterval(() => {
+  const order = queue.dequeue();
+  if (order) {
+    console.log("Processing order:", order);
   }
-
-  enqueue(msg) {
-    this.queue.push(msg);
-  }
-
-  dequeue() {
-    return this.queue.shift();
-  }
-}
-
-module.exports = new Queue();
-
+}, 2000);
